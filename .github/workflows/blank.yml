@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: YOUTUBE
-          feed_list: "http://feeds.feedburner.com/Events-netSoPaulo"
-          feed_address: "http://feeds.feedburner.com/Events-netSoPaulo"
+          feed_list: "http://feeds.feedburner.com/netsp/meetup"
+          feed_address: "http://feeds.feedburner.com/netsp/meetup"
